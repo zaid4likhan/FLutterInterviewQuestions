@@ -1,0 +1,67 @@
+Dart
+-------------------------------------------
+dart is a case sensitive language?
+------------------------------------------
+{Object Oriented Programming}
+
+1. Inheritence
+2. Encapsulation
+3. Abstraction
+4. Polymorphism
+
+Method Overloading 
+Method OverRiding
+Mixins
+public class
+private class
+
+-------------------------------------------------
+Flutter
+-------------------------------------------------
+types of widgets
+stateless widget
+statefull widget 
+types of application
+responsiveness (media query , widgets(expanded , main axis , cross axis etc))
+firebase
+firebase database type?
+scaffold
+stack
+-------------------------------
+application
+-------------------------------
+qr code scanner
+dark theme
+localization (language translator)
+google-maps
+webview
+fingerprint scanners
+payment methods (stripe , paypal etc)
+chat app
+open camera
+videp recorder
+file send
+contact send
+pop notification
+push notification
+voice sender
+
+-------------------------------------
+state managements
+-------------------------------------
+stacked 
+blocked
+provider
+getx
+---------------------------------------
+DSA
+--------------------------------------
+Api
+--------------------------------------
+post
+create
+update
+delete
+put
+read
+--------------------------------------
